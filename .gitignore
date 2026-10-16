@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+.cache/
+.d/
+bin/
+build/
+compile_commands.json
+temp.log
+temp.errors
+*.ini
+*.o
+*.obj
+*.exe
+*.bin
+*.elf
+*.dSYM/
+
